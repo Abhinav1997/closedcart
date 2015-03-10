@@ -2,7 +2,7 @@
 
 ## Overview
 
-ClosedCart is very, very expensive closed source ecommerce platform for online merchants. ClosedCart provides a extremely unprofessional and unreliable support, and doesn't take kindly to any suggestions.
+ClosedCart is very, very expensive closed source ecommerce platform for online merchants. ClosedCart provides an extremely unprofessional and unreliable support, and doesn't take kindly to any suggestions.
 
 ## Issues
 	
